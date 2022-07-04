@@ -1,2 +1,2 @@
 # js-road
-js refresher
+js road
